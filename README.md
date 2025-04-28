@@ -21,14 +21,20 @@ Hi there! I'm Vivian, a 24-year-old Systems Analysis and Development student at 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianSantos0101&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 <br />
 <br />
-  <img src ="imagens/3HeO.gif" justify-content="space-between" align="right" height="190em" >
-  <img align="center" height="190em" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=vivianSantos0101&theme=chartreuse-dark">
+  <img align="center" height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=vivianSantos0101&theme=chartreuse-dark">
 </div>
-  <div>
+  <span>
+&nbsp;&nbsp;&nbsp;
+</span>
+  <div align="center" justify-content="center">   
+    <img src ="imagens/3HeO.gif" height="257em" > 
+  </div>
   <span>
 &nbsp;&nbsp;&nbsp;&nbsp;
 </span>
-</div>
+
+
+
 
 # Projetos 🤓
 <br/>
