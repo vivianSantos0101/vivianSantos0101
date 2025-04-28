@@ -31,9 +31,6 @@ Hi there! I'm Vivian, a 24-year-old Systems Analysis and Development student at 
 &nbsp;&nbsp;&nbsp;&nbsp;
 </span>
 
-
-
-
 # Projetos 🤓
 <br/>
 
@@ -64,6 +61,11 @@ Hi there! I'm Vivian, a 24-year-old Systems Analysis and Development student at 
 
 <div 
   
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,python,css,html,ollama,mysql,figma,git,github,flask,aws,jira,notion,photoshop,vscode&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,python,css,html,markdown,ollama,deepseek,mysql,sqlite,figma,git,github,flask,aws,jira,notion,photoshop,lucidchart,vscode,excel,word,matlab&theme=dark)
 
 </div>
+  <span>
+&nbsp;&nbsp;&nbsp;&nbsp;
+</span>
+
+
