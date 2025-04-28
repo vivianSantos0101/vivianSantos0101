@@ -12,7 +12,18 @@
   <a href="https://github.com/vivianSantos0101">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vivianSantos0101&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   </a>
+    &nbsp;
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianSantos0101&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+<br />
+<br />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivianSantos0101&theme=chartreuse-dark">
 </div>
+  <span>
+&nbsp;&nbsp;&nbsp;&nbsp;
+</span>
+</div>
+<div align="center" justify-content="center">
+  
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EquipeEcho&repo=EasyScrum&theme=chartreuse-dark)](https://github.com/CyrisXD/Pwnagetty) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EquipeEcho&repo=botEcho&theme=chartreuse-dark)](https://github.com/CyrisXD/love-lock-card)
+
 </div>
