@@ -10,9 +10,9 @@
 <div>
   <div align="center">
   <a href="https://github.com/vivianSantos0101">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vivianSantos0101&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vivianSantos0101&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   </a>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianSantos0101&layout=compact&langs_count=7&theme=cobalt"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivianSantos0101&theme=radical">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianSantos0101&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivianSantos0101&theme=chartreuse-dark">
 </div>
 </div>
