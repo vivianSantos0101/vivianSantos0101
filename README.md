@@ -24,6 +24,6 @@
 </div>
 <div align="center" justify-content="center">
   
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EquipeEcho&repo=EasyScrum&theme=chartreuse-dark)](https://github.com/CyrisXD/Pwnagetty) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EquipeEcho&repo=botEcho&theme=chartreuse-dark)](https://github.com/CyrisXD/love-lock-card)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EquipeEcho&repo=EasyScrum&theme=chartreuse-dark)](https://github.com/EquipeEcho/EasyScrum) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EquipeEcho&repo=botEcho&theme=chartreuse-dark)](https://github.com/EquipeEcho/botEcho)
 
 </div>
