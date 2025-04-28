@@ -64,8 +64,22 @@ Hi there! I'm Vivian, a 24-year-old Systems Analysis and Development student at 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,python,css,html,markdown,ollama,deepseek,mysql,sqlite,figma,git,github,flask,aws,jira,notion,photoshop,lucidchart,vscode,excel,word,matlab&theme=dark)
 
 </div>
-  <span>
-&nbsp;&nbsp;&nbsp;&nbsp;
-</span>
+  
+&nbsp;&nbsp;&nbsp;
+
+# Curriculo 📋
+
+
+&nbsp;&nbsp;&nbsp;
+
+
+# Contatos
+
+<div style="display: inline_block" align="center">
+  <a href="[https://www.instagram.com//](https://www.instagram.com/vivian_msants/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "vivian.stoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vivianstoliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <br><br>
+
 
 
