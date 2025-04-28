@@ -34,7 +34,7 @@ Hi there! I'm Vivian, a 24-year-old Systems Analysis and Development student at 
 
 
 
-# Repositórios dos projetos 🤓
+# Projetos 🤓
 <br/>
 
 <div align="center" justify-content="center">
@@ -52,7 +52,7 @@ Hi there! I'm Vivian, a 24-year-old Systems Analysis and Development student at 
 [![Nome do Vídeo](https://img.youtube.com/vi/RhitfLJMUBE/0.jpg)](https://youtu.be/RhitfLJMUBE?si=NCTdkYIslYfrlLxs)
 
 <p> botEcho </p>
-<img src="imagens/g0R5.gif">
+<img src="imagens/ZWdx.gif" width="200px">
 
 </div>
 
