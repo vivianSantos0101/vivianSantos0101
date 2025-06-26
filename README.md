@@ -72,7 +72,7 @@ Hi there! I'm Vivian, a 24-year-old Systems Analysis and Development student at 
 <div style="display: inline_block">
   <a href = "mailto:vivian.stoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vivianstoliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="imagens/Vivian santos (3).pdf"><img src="https://img.shields.io/badge/Curr%C3%ADculo-990000?style=for-the-badge&logoSize=auto" target="_blank"></a>
+  <a href="imagens/Vivian Oliveira0101.pdf"><img src="https://img.shields.io/badge/Curr%C3%ADculo-990000?style=for-the-badge&logoSize=auto" target="_blank"></a>
   <br><br>
 
 
